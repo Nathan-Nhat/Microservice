@@ -28,7 +28,7 @@ Jinja2==2.11.2
 jsonschema==3.2.0
 Mako==1.1.2
 MarkupSafe==1.1.1
-mistune==0.8.4
+mistune==2.0.3
 paramiko==2.7.1
 pycparser==2.20
 PyMySQL==0.9.3
