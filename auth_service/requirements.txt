@@ -22,7 +22,7 @@ Jinja2==2.11.2
 jsonschema==3.2.0
 Mako==1.1.2
 MarkupSafe==1.1.1
-mistune==0.8.4
+mistune==2.0.3
 pika==1.1.0
 pycparser==2.20
 PyJWT==1.4.2
